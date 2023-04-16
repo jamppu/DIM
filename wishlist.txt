@@ -1,10 +1,14 @@
-//missing items
-
-//immortal
-dimwishlist:item=4039572196&perks=1482024992,1885400500,2846385770,365154968
+title:Missing items from default lista
+description:Jamppu_fi additions
 
 //osteo striga
 dimwishlist:item=46524085&perks=1482024992,3142289711,990298390,229096166
+
+@title:Trials of Osiris weapons
+@description:Trials of osiris
+
+//immortal
+dimwishlist:item=4039572196&perks=1482024992,1885400500,2846385770,365154968
 
 //exhalted truth
 dimwishlist:item=548809020&perks=1482024992,3142289711,1821614984,1365187766
