@@ -90,3 +90,26 @@ dimwishlist:item=1081724548&perks=1392496348,1885400500,1428297954,365154968
 // Rapacious Appetite (god-pve,pve)
 //notes: tags:god-pve,pve
 dimwishlist:item=1081724548&perks=4090651448,3230963543,968510818,4104185692
+
+// Outlast ()
+dimwishlist:item=1678205741&perks=202670084,1087426260,1583705720,47981717,1004814308
+
+
+// Outlast ()
+dimwishlist:item=1678205741&perks=
+
+
+// A Distant Pull ()
+dimwishlist:item=1769847435&perks=202670084,3177308360,3619207468,124408337,2053642371
+
+
+// Spare Rations ()
+dimwishlist:item=3236112986&perks=1467527085,1431678320,1820235745,1015611457,1004814308
+
+
+// Spare Rations ()
+dimwishlist:item=3236112986&perks=
+
+
+// Targeted Redaction ()
+dimwishlist:item=3890055324&perks=202670084,1431678320,1168162263,438098033,2053642371
