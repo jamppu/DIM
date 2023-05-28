@@ -107,3 +107,12 @@ dimwishlist:item=1106635211&perks=1467527085,106909392,1556840489,2846385770,212
 
 // Thin Precipice ()
 dimwishlist:item=4066778670&perks=938542991,599007201,3108830275,2396489472,2053642371
+
+// Randy's Throwing Knife (god-pvp)
+//notes: MW: range. Mod:counter balance stock tags:god-pvp
+dimwishlist:item=3292795429&perks=3250034553,1885400500,1428297954,1015611457,4091460919
+
+
+// Randy's Throwing Knife (god-pve)
+//notes: MW: Handling mod: major or monot spec tags:god-pve
+dimwishlist:item=3292795429&perks=3250034553,1968497646,2416023159,3891536761,4091460919
