@@ -5060,3 +5060,11 @@ dimwishlist:item=3256453690&perks=1844523823,2822142346,951095735,1275731761
 // Compass Rose (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=233896077&perks=1047830412,791862061,3436462433,2360754333
+
+// Something New (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3240434620&perks=1840239774,1561002382,3400784728,124408337
+
+// Something New (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3240434620&perks=1840239774,1561002382,3592538738,438098033
