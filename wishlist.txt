@@ -5060,6 +5060,7 @@ dimwishlist:item=3256453690&perks=1844523823,2822142346,951095735,1275731761
 // Crowning Duologue (pve)
 //notes: tags:pve
 dimwishlist:item=3256453690&perks=1478423395,3796465595,3523296417,1275731761
+dimwishlist:item=3256453690&perks=1478423395,3796465595,3523296417,2396489472
 
 // Compass Rose (god-pve)
 //notes: tags:god-pve
