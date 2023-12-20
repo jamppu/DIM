@@ -5309,6 +5309,14 @@ dimwishlist:item=1501688142&perks=839105230,3868766766,3198323828,588594999
 dimwishlist:item=1501688142&perks=839105230,3868766766,3198323828,2717805783
 
 
+// Abide the Return (god-pve)
+//notes: Season 4 version, missing perks - last column: Incandescent or Whirlwind Blade or Attrition Orbs tags:god-pve
+dimwishlist:item=1644160541&perks=1261178282,52780822,1749209109
+dimwishlist:item=1644160541&perks=1261178282,52780822,2030760728
+dimwishlist:item=1644160541&perks=3666208348,52780822,1749209109
+dimwishlist:item=1644160541&perks=3666208348,52780822,2030760728
+
+
 // Imperative (god-pve)
 //notes: MW: Reload Speed tags:god-pve
 dimwishlist:item=2045811635&perks=839105230,3230963543,3523296417,3891536761
@@ -5406,6 +5414,16 @@ dimwishlist:item=2993554824&perks=839105230,1885400500,4223976499,4290541820
 dimwishlist:item=2993554824&perks=
 
 
+// Vouchsafe (god-pve)
+//notes: Missing wish perks: destabilising rounds, explosive payload tags:god-pve
+dimwishlist:item=3242168339&perks=3661387068,106909392,247725512
+
+
+// Vouchsafe (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3242168339&perks=1840239774,3177308360,247725512,247725512
+
+
 // Lethophobia (god-pve)
 //notes: MW: Draw Time tags:god-pve
 dimwishlist:item=3710082365&perks=852209214,3429800428,2652708987,2610012052
@@ -5450,5 +5468,7 @@ dimwishlist:item=4153087276&perks=1482024992,2969185026,3523296417,2319119708
 dimwishlist:item=4153087276&perks=1482024992,2969185026,3523296417,2140591236
 dimwishlist:item=4153087276&perks=1482024992,2969185026,1906147653,2319119708
 dimwishlist:item=4153087276&perks=1482024992,2969185026,1906147653,2140591236
+
+
 
 
