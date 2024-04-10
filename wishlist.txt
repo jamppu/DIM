@@ -5721,3 +5721,27 @@ dimwishlist:item=3007479950&perks=3661387068,3142289711,699525795,3751912585,283
 // Succession (god-pve)
 //notes: JFi mw:handling mod:boss spec tags:god-pve
 dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1771339417
+
+// Elsie's Rfile (god-pvp)
+//notes: JFi mw: stability mod: targeting adjuster tags:god-pvp
+dimwishlist:item=3851176026&perks=839105230,1885400500,2387244414,460017080
+
+// Elsie's Rfile (god-pve)
+//notes: JFi mw: stability mod: major spec tags:god-pve
+dimwishlist:item=3851176026&perks=839105230,1087426260,776531651,2048641572
+
+// The Recluse (god-pvp)
+//notes: JFi mw: range mod: quick access sling tags:god-pvp
+dimwishlist:item=1050806815&perks=1467527085,1885400500,1359896290,1890422124
+
+// The Recluse (god-pve)
+//notes: JFi mw: range mod: minor spec tags:god-pve
+dimwishlist:item=1050806815&perks=4090651448,1561002382,1820235745,2109543898
+
+// Edge Transit (god-pve)
+//notes: JFi mw: reload mod: boss spec tags:god-pve
+dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919
+
+// Edge Transit (god-pvp)
+//notes: JFi mw: velocity mod: freehand grip tags:god-pvp
+dimwishlist:item=568611923&perks=3525010810,409831596,951095735,4104185692
