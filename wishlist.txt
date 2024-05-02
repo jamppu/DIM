@@ -5817,3 +5817,7 @@ dimwishlist:item=4043921923&perks=3301904089,3643424744,4049631843
 //notes: JFi Switch to build tags:pve
 dimwishlist:item=568611922&perks=3301904089,3300816228,469285294
 dimwishlist:item=4043921923&perks=3301904089,3300816228,469285294
+
+// Blast Furnace (pve)
+//notes: JFi special tremmors tags:pve
+dimwishlist:item=2372514508&perks=3250034553,2420895100,3891536761,4049631843
