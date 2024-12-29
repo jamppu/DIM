@@ -6366,3 +6366,7 @@ dimwishlist:item=2599338625&perks=3525010810,1771897777,3987942396,3078487919
 // Arcane Embrance (pve)
 //notes: JFi tags:god-pve
 dimwishlist:item=3649985571&perks=1482024992,106909392,1354429876,555281244
+
+// Stay Frosty (pvp)
+//notes: JFi CoolGuy tags:god-pve
+dimwishlist:item=1123433952&perks=3250034553,3230963543,1195158366,1015611457,4264904777
